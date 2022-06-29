@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&family=Londrina+Sketch&family=Schoolbell&display=swap');
+
+h2,h3,h4,h5{
+    font-family:'Schoolbell',cursive;
+    color:white;
+}
+
+h1{font-family:'Londrina Sketch',cursive;
+    color:white;
+    font-size:100px;
+}
+
+body {
+    
+    background-image: url('chalkboard_background.svg');
+    background-size:cover;
+  }
+
+  
+  /*div {
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    height: auto;
+   
+  } */
+
+  img{
+    background-color:white;
+
+  }
+
+ carouse-item {
+    text-align:center;
+ }
