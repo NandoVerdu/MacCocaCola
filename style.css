@@ -43,3 +43,7 @@ body {
  carouse-item {
     text-align:center;
  }
+
+ li{
+  padding-top: 1rem;
+ }
