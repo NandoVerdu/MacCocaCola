@@ -1,9 +1,15 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&family=Londrina+Sketch&family=Schoolbell&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&family=Londrina+Sketch&family=Schoolbell&family=Londrina+Solid&&family=Splash&display=swap');
 
 h2,h3,h4,h5{
     font-family:'Schoolbell',cursive;
     color:white;
+}
+
+.londrina{ 
+  font-family:'Londrina Solid',cursive;
+  font-size: 120%;
+  text-transform: uppercase;
 }
 
 h1{font-family:'Londrina Sketch',cursive;
