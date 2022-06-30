@@ -1,17 +1,22 @@
 .footer {
-    background: #061D25;
-    padding: 10px 0;
+    background:black;
+    padding: 5px 0;
   }
-  .footer a {
+  .footer a ,.footer p{
     color: #70726F;
     font-size: 20px;
     padding: 10px;
-    border-right: 1px solid #70726F;
+    border-left: 1px solid #70726F;
     transition: all .5s ease;
   }
-  .footer a:first-child {
-    border-left: 1px solid #70726F;
+
+  .footer p:first-child{
+    border-left:0px;
   }
-  .footer a:hover {
+
+  .footer a:last-child {
+    border-right: 1px solid #70726F;
+  }
+  .footer a:hover, .footer p:hover {
     color: white;
   }
