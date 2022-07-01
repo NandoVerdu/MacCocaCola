@@ -35,15 +35,20 @@ body {
    
   } */
 
-  img{
+  .carousel-item img{
     background-color:white;
-
+    margin:auto;
   }
 
- carouse-item {
+ .carousel-item, #carouselExampleControls {
     text-align:center;
+    margin:auto;
  }
 
  li{
   padding-top: 1rem;
  }
+
+ .carousel-inner{
+  box-shadow: black 20px 20px 30px -10px;
+}
